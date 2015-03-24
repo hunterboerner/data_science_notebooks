@@ -1,0 +1,3 @@
+API Key: ace437c69180d055ee513a5d33abded8
+
+url = 'http://ws.audioscrobbler.com/2.0/?method=album.getinfo&api_key=ace437c69180d055ee513a5d33abded8&artist=Rihanna&album=Loud&format=json'
